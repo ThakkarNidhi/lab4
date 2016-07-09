@@ -4,10 +4,10 @@
 *filename: app.js
 *
 @author Nidhi Thakkar
-@date 10/06/2016
+@date 08/07/2016
 *
 *student id:300872151
-*website  :http://assignment2comp125.azurewebsites.net/
+*website  :http://lab4comp122.azurewebsites.net/
 @description This is the main java script file for the website.
 */
 (function(){
